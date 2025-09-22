@@ -38,7 +38,7 @@ step-1 : git clone https://github.com/DandaLakshmiManiSankar/Sentiment_Analysis.
 
 step-2 : !pip install -r requirements.txt
 
-step-3 : python app.py
+step-3 : !python app.py
 
 
 
