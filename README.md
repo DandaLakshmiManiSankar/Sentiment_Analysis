@@ -5,7 +5,7 @@ The goal is to classify email replies into **positive**, **negative**, or **neut
 
 ---
 
-## 🚀 Part A – ML/NLP Pipeline
+## 🚀 ML/NLP Pipeline
 
 1. **Preprocessing**  
    - Cleaned text (lowercasing, removing special chars).  
