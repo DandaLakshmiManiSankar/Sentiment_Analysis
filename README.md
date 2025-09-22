@@ -36,7 +36,9 @@ The goal is to classify email replies into **positive**, **negative**, or **neut
 
 step-1 : git clone https://github.com/DandaLakshmiManiSankar/Sentiment_Analysis.git
 
-step-2 : python app.py
+step-2 : !pip install -r requirements.txt
+
+step-3 : python app.py
 
 
 
