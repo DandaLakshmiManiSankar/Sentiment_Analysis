@@ -32,6 +32,14 @@ The goal is to classify email replies into **positive**, **negative**, or **neut
   ```json
   { "label": "positive", "confidence": 0.87 }
 
+## Project Setup (In Google Colab Environment)
+
+step-1 : git clone https://github.com/DandaLakshmiManiSankar/Sentiment_Analysis.git
+
+step-2 : pytho app.py
+
+
+
 
 
 
