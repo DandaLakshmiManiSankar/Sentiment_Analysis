@@ -46,6 +46,8 @@ My Public Drive Video Explanation Link :
 
 step-1 : git clone https://github.com/DandaLakshmiManiSankar/Sentiment_Analysis.git
 
-step-2 : !pip install -r requirements.txt
+step-2 : cd Sentiment_Analysis
 
-step-3 : !python app.py
+step-3 : !pip install -r requirements.txt
+
+step-4 : !python app.py
