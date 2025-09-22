@@ -18,7 +18,13 @@ The goal is to classify email replies into **positive**, **negative**, or **neut
 3. **Evaluation**  
    - Metrics: Accuracy, F1, and Classification Report.  
    - Compared baseline vs transformer.  
-   - Final decision: DistilBERT chosen for production (better balance between performance and generalization).  
+   - Final decision: DistilBERT chosen for production (better balance between performance and generalization).
+  
+| Model               | Accuracy                      | Weighted F1 | Notes                                                                                                  |
+| ------------------- | ----------------------------- | ----------- | ------------------------------------------------------------------------------------------------------ |
+| Logistic Regression | \~0.80–0.95 (depends on data) | \~0.80–0.95 | Simple, fast, interpretable. Works well on small datasets.                                             |
+| DistilBERT          | \~0.85–1.0                    | \~0.85–1.0  | Powerful transformer, captures semantic meaning. Handles complex sentences. Slower to train and serve. |
+  
 
 ---
 
@@ -39,9 +45,3 @@ step-1 : git clone https://github.com/DandaLakshmiManiSankar/Sentiment_Analysis.
 step-2 : !pip install -r requirements.txt
 
 step-3 : !python app.py
-
-
-
-
-
-
