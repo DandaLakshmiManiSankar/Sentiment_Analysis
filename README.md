@@ -32,6 +32,7 @@ The goal is to classify email replies into **positive**, **negative**, or **neut
   ```json
   { "text": "Looking forward to the demo!" }
 - **Output:**
+  ```json
   { "label": "positive", "confidence": 0.87 }
 
 
