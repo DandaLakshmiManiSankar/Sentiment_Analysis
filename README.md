@@ -26,9 +26,7 @@ The goal is to classify email replies into **positive**, **negative**, or **neut
 | DistilBERT          | \~0.85–1.0                    | \~0.85–1.0  | Powerful transformer, captures semantic meaning. Handles complex sentences. Slower to train and serve. |
   
 
-My Public Drive Colab Notebook Link : 
-
-My Public Drive Video Explanation Link : 
+My Public Drive Video Explanation Link : https://drive.google.com/file/d/1DNsA7H-F64RSOtcPHpHo_HMNTGbH3Ym5/view?usp=drive_link
 
 ---
 
