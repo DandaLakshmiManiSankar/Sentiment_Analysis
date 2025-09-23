@@ -32,7 +32,7 @@ My Public Drive Video Explanation Link : https://drive.google.com/file/d/1DNsA7H
 
 ## 🌐 Deployment
 
-- Implemented a **Flask API** (`app.py`) with `/predict` endpoint.  
+- Implemented a **Flask API** (`app.py`) with `/predict_web` endpoint.  
 - **Input:**  
   ```json
   { "text": "Looking forward to the demo!" }
